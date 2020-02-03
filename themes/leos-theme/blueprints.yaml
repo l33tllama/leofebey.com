@@ -1,0 +1,27 @@
+name: Leos Theme
+version: 0.1.0
+description: Leo's Theme
+icon: rebel
+author:
+  name: Leo Febey
+  email: leofebey@gmail.com
+homepage: https://github.com/leo-febey/grav-theme-leos-theme
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/leo-febey/grav-theme-leos-theme/issues
+readme: https://github.com/leo-febey/grav-theme-leos-theme/blob/develop/README.md
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in Menu
+        highlight: 1
+        default: 1
+        options:
+          1: PLUGIN_ADMIN.ENABLED
+          0: PLUGIN_ADMIN.DISABLED
+        validate:
+          type: bool

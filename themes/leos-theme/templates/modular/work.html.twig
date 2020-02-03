@@ -1,0 +1,17 @@
+<section class="work" id="work">
+  <div class="container">
+    <div class="row">
+      <div class="text-center">
+        {{ page.content }}
+      </div>
+      <div class="work-wrapper">
+        {% for item in page.header.work %}
+        <div class="work col-md-4 work-{{ loop.index }} ">
+          <h2 class="text-center">{{ item.title }}</h2>
+          <p class="work-content text-left">{{ item.content }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

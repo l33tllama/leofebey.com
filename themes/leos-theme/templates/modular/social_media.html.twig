@@ -1,0 +1,18 @@
+<section class="social-media text-center" id="social-media">
+    <div class="container">
+        <div class="row">
+            <div class="">
+                {{page.content}}
+                <div class="social-media-wrapper">
+                    {% for item in page.header.social %}
+                    <a class="social-media-item col-md-3 social-media-{{ loop.index}} wp2" href={{item.url}}>
+                        <div class="icon">
+                            <i class="fa fa-{{ item.icon }}"></i>
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

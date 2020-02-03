@@ -1,0 +1,20 @@
+<section class="services text-center" id="services">
+  <div class="container">
+    <div class="row">
+      <div class="">
+        {{ page.content }}
+        <div class="services-wrapper">
+          {% for item in page.header.services %}
+          <div class="service col-md-3 service-{{ loop.index }} wp2 ">
+            <div class="icon">
+              <i class="fa fa-{{ item.icon }}"></i>
+            </div>
+            <h2>{{ item.title }}</h2>
+            <p>{{ item.content }}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

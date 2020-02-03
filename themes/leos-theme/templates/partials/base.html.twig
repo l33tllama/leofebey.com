@@ -1,0 +1,93 @@
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+<!DOCTYPE html>
+<html lang="{{ grav.language.getActive ?: theme_config.default_lang }}">
+<head>
+{% block head %}
+    <meta charset="utf-8" />
+    <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include 'partials/metadata.html.twig' %}
+
+    <link rel="icon" type="image/png" href="{{ url('theme://images/LFLogoDark.png') }}" />
+    <link rel="canonical" href="{{ page.url(true, true) }}" />
+
+    {% block stylesheets %}
+        {% do assets.addCss('https://unpkg.com/purecss@1.0.0/build/pure-min.css', 100) %}
+        {% do assets.addCss('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css', 99) %}
+        {% do assets.addCss('theme://css/custom.css', 98) %}
+    {% endblock %}
+    {{ assets.css() }}
+
+    {% block javascripts %}
+        {% do assets.addJs('jquery', 100) %}
+        {# TODO: uncomment when live #}
+        {% do assets.addJs('https://www.googletagmanager.com/gtag/js?id=UA-132830873-1', 99) %}
+        {% do assets.addJs('theme://js/google-analytics.js', 98) %}
+    {% endblock %}
+
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    {{ assets.js() }}
+
+{% endblock head%}
+</head>
+<body id="top" class="{{ page.header.body_classes }}">
+
+{% block header %}
+    <div class="header">
+        <div class="wrapper padding">
+            <a class="logo left" href="{{ base_url == '' ? '/' : base_url }}">
+                {# <i class="fa fa-rebel"></i> #}
+                <img id="mainlogo" src="{{ url('theme://images/LFLogo.png') }}" /> 
+                <span id="logotext">{{ config.site.title }}</span>
+            </a>
+            {% block header_navigation %}
+            <nav id="main-nav" class="main-nav">
+                {% include 'partials/navigation.html.twig' %}
+            </nav>
+            {% endblock %}
+        </div>
+    </div>
+{% endblock %}
+
+{% block body %}
+    <section id="body">
+        <div class="wrapper padding">
+        {% block content %}{% endblock %}
+        </div>
+    </section>
+{% endblock %}
+
+{% block footer %}
+    <div class="footer text-center">
+        <div class="wrapper padding">
+            <p>
+                Made with <a href="http://getgrav.org">Grav</a>
+                - Social Media:
+                <span class="social-media-links">
+                    <a href="https://github.com/l33tllama"><span class="fa fa-github"/></a>
+                    <a href="https://twitter.com/leofebey"><span class="fa fa-twitter"/></a>
+                    <a href="http://au.linkedin.com/pub/leo-febey/66/ab1/36b/en"><span class="fa fa-linkedin"/></a>
+                    <!--<a href="https://www.facebook.com/leonaardo"><span class="fa fa-facebook"/></a>
+                    <a href="http://www.instagram.com/l33tllama"><span class="fa fa-instagram"/></a>
+                    
+                    
+                    <a href="https://www.youtube.com/user/3l33tllama"><span class="fa fa-youtube"/></a>
+                    <a href="http://google.com/+LeoFebey"><span class="fa fa-google-plus"/></a>
+                    <a href="http://www.last.fm/user/l33tllama"><span class="fa fa-lastfm"/></a>
+                    <a href="http://steamcommunity.com/id/l33t_llama/"><span class="fa fa-steam"/></a>
+                    <a href="http://www.reddit.com/user/l33tllama/"><span class="fa fa-reddit"/></a>-->
+
+                </span>
+            </p>
+        </div>
+    </div>
+{% endblock %}
+
+{% block bottom %}
+    {{ assets.js('bottom') }}
+{% endblock %}
+
+</body>
+</html>
