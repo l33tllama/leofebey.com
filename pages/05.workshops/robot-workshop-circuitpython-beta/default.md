@@ -14,4 +14,3 @@ You'll be able to build your own robot, program it and take it home.
 I'm aiming to target this workshop at people who have limited programming skills but want to learn a bit more. More advanced workshops will likely come in the future!
 
 Sign up form will appear on this page soon..
-
