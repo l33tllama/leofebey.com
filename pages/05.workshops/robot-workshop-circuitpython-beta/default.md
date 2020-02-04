@@ -38,6 +38,3 @@ Note - this sign up does not register you for the event.
 
 ## (Optional) LCD shield
 ![](lcd_shield.jpg)
-
-
-
