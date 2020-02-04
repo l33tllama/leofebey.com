@@ -1,7 +1,7 @@
 {% embed 'partials/base.html.twig' %}
 	
 	{% block content %}
-		<a href="../blog"><i class="fa fa-chevron-left"></i> Blog</a>
+		<a href="../blog"><i class="fa fa-chevron-left"></i> Blog</a><br/>
 		<i>Time to read: {{ page.content | readingtime({'minutes_label': 'Minutes', 'minute_label': 'Minute', 'seconds_label': 'Seconds', 'second_label': 'Second'}) }} </i>
 		{% if config.plugins.breadcrumbs.enabled %}
 			{% include 'partials/breadcrumbs.html.twig' %}
