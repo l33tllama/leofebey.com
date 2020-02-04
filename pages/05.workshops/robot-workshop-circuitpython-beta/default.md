@@ -16,7 +16,7 @@ My plan is to teach Python and basic robotics using [CircuitPython](https://circ
 
 You'll be able to build your own robot, program it and take it home.
 
-I'm aiming to target this workshop at people who have limited programming skills but want to learn a bit more. More advanced workshops will likely come in the future!
+I'm aiming to target this workshop at people of all ages who have limited programming skills but want to learn a bit more. More advanced workshops will likely come in the future!
 
 The estimated cost will be around $150-300, depending on final parts selected and content in the course. I'll send a poll around once you sign up to see what parts you want to have on the robot.
 
