@@ -25,6 +25,8 @@ The estimated cost will be around $150-300, depending on final parts selected an
 
 Note - this sign up does not register you for the event.
 
+The workshop will almost certainly be held at Hobart Enterprize, 24 Davey Street, Hobart. Probably on a weekend. Parking can be tricky, but there's a lot of space inside and I'm getting the space for free!
+
 ### The robot kit I currently plan to use will likely have these parts:
 
 ## Microcontroller - Adafruit METRO M0 Express
