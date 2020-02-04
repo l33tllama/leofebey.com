@@ -2,6 +2,7 @@
 	
 	{% block content %}
 		<a href="../blog"><i class="fa fa-chevron-left"></i> Blog</a>
+		<i>Time to read: {{ page.content | readingtime({'minutes_label': 'Minutes', 'minute_label': 'Minute', 'seconds_label': 'Seconds', 'second_label': 'Second'}) }} </i>
 		{% if config.plugins.breadcrumbs.enabled %}
 			{% include 'partials/breadcrumbs.html.twig' %}
 		{% endif %}

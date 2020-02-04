@@ -11,9 +11,7 @@
 		{% else %}
 		<div class="blog-header">
 		{% endif %}
-			<i>Time to read: {{ page.content | readingtime({'minutes_label': 'Minutes', 'minute_label': 'Minute', 'seconds_label': 'Seconds', 'second_label': 'Second'}) }} </i>
 			{{ page.content }}
-			
 		</div>
 
 			{% if config.plugins.breadcrumbs.enabled %}
