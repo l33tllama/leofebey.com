@@ -18,7 +18,7 @@ You'll be able to build your own robot, program it and take it home.
 
 I'm aiming to target this workshop at people who have limited programming skills but want to learn a bit more. More advanced workshops will likely come in the future!
 
-<a href="javascript:;" onclick="ml_webform_1753848('show')">Click here to sign up to hear more!</a>
+<a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to sign up to hear more!</a>
 
 Note - this sign up does not register you for the event.
 
