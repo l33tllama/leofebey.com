@@ -11,6 +11,7 @@
 		{% else %}
 		<div class="blog-header">
 		{% endif %}
+			{{ page.content }}
 			{{ page.content | readingtime({'minutes_label': 'Minutes', 'minute_label': 'Minute', 'seconds_label': 'Seconds', 'second_label': 'Second'}) }}
 		</div>
 
