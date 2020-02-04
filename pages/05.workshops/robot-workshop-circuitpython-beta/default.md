@@ -2,6 +2,11 @@
 title: Robot Workshop - CircuitPython (beta)
 ---
 
+<script>
+    var ml_webform_1753848 = ml_account('webforms', '1753848', 'a8z2u6', 'load');
+    ml_webform_1753848('animation', 'fadeIn');
+</script>
+
 # Robot Workshop - CircuitPython (beta)
 
 This is my first public workshop! Doesn't mean that it won't be any good :P 
@@ -13,4 +18,4 @@ You'll be able to build your own robot, program it and take it home.
 
 I'm aiming to target this workshop at people who have limited programming skills but want to learn a bit more. More advanced workshops will likely come in the future!
 
-Sign up form will appear on this page soon..
+<a href="javascript:;" onclick="ml_webform_1753848('show')">Click here to register!</a>
