@@ -29,6 +29,8 @@ The workshop will almost certainly be held at Hobart Enterprize, 24 Davey Street
 
 These workshops wouldn't be possible without the support of [Hobart Hackerspace](https://www.hobarthackerspace.org.au/), [Hobart Makers](http://hobartmakers.com/) and [Enterprize](https://enterprize.space). Please check them out, they are good people!
 
+A portion of the profits of this workshop will be donated to Hobart Hackerspace and Hobart Makers as they have helped promote the event and support me in general.
+
 ### The robot kit I currently plan to use will likely have these parts:
 
 ## Microcontroller - Adafruit METRO M0 Express
