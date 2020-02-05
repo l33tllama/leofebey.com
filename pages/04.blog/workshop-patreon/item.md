@@ -19,6 +19,8 @@ Also, I've set up a Patreon page. Patreon is a site that allows creative people 
 
 Eventually when I'm in a more stable financial position, I'll share these things more publicly.
 
+I'll still be making blog posts on various things I feel are important to share with the world (eg. highly useful technical solutions to problems) but Patreon I think will be more about the details of projects I'm working on.
+
 ## Patreon Snippet
 
 Here is a small snippet of my latest Patreon post (only available to supporters)
