@@ -27,7 +27,7 @@ Note - this sign up does not register you for the event.
 
 The workshop will almost certainly be held at Hobart Enterprize, 24 Davey Street, Hobart. Probably on a weekend. Parking can be tricky, but there's a lot of space inside and I'm getting the space for free!
 
-These workshops wouldn't be possible without the support of [Hobart Hackerspace](https://www.hobarthackerspace.org.au/) and [Hobart Makers](http://hobartmakers.com/). Please check them out, they are good people!
+These workshops wouldn't be possible without the support of [Hobart Hackerspace](https://www.hobarthackerspace.org.au/), [Hobart Makers](http://hobartmakers.com/) and [Enterprize](https://enterprize.space). Please check them out, they are good people!
 
 ### The robot kit I currently plan to use will likely have these parts:
 
