@@ -7,6 +7,6 @@ title: Introduction
 > ###Contact:  
 > **Email:** [:fa-envelope: leofebey@gmail.com](leofebey@gmail.com)  
 > **Phone:** :fa-phone: 0427 460 504   
-> **Facebook:** [:fa-facebook: Leo Febey Tech Support and Solutions](http://www.facebook.com/leofebeytech) 
-> **Patreon:** [:fa-patreon: Leo Febey Projects](https://www.patreon.com/leofebeyprojects)
+> **Facebook:** [:fa-facebook: Leo Febey Tech Support and Solutions](http://www.facebook.com/leofebeytech)  
+> **Patreon:** [:fa-dollar: Leo Febey Projects](https://www.patreon.com/leofebeyprojects)
 
