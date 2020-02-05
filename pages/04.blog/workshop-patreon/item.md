@@ -15,6 +15,8 @@ The workshop information is listed on the new Workshops section of my website, [
 
 Also, I've set up a Patreon page. Patreon is a site that allows creative people like myself to receive payments from supporters to encourage them to do things they enjoy. In my case, I'll be sharing the details of what I get up to more frequently (than even this blog). It's a more granular feed of the little bits that I get up to, and should show some insight into the things I'm working on. I'm also struggling a bit financially at the moment (Typical Hobart..) so I'm trying new ways to earn money.
 
+[My Patreon Page](https://patreon.com/leofebeyprojects)
+
 Eventually when I'm in a more stable financial position, I'll share these things more publicly.
 
 ## Patreon Snippet
