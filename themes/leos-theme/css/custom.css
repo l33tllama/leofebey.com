@@ -465,3 +465,7 @@ video {
 .blog-header h1{
     color: #2f0923
 }
+
+.force-normal-text {
+    font-size: 11pt !important;
+}
