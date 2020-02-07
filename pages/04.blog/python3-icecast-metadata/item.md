@@ -5,7 +5,7 @@ taxonomy:
 date: '07-02-2020 14:10'
 ---
 
-# Getting Icecast Metadata with Python
+# Getting Icecast Metadata with Python 3
 
 I'm currently working on making an Internet radio alarm clock. It's powered by a Raspberry Pi and an Ardiuno for controls/LCD.
 
