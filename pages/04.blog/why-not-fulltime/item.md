@@ -65,3 +65,4 @@ I thought of some more reasons why I don't like full-time work!
 
 * Taking breaks to work on something different - It's not quite a holiday, but working on one of your own projects can be rejuvenating to your motivation. Doing something creative and interesting to you can give you a little boost when you go back to work. Google actually lets employees do this, but hardly any other tech companies do (Hello, my previous employer).
 * Travelling on the weekend - Two days (the weekend) isn't quite enough to go for a quick trip to another state. You spend up to a whole day travelling, leaving two half days to explore. Three days would be ideal - then you have one full day to go see things.
+* Tech conferences and talks - One example is LCA (Linux Conference Australia) - a week-long conference. I would not like this to use up my holidays as it's fairly work related. I don't know if employers will let me go to these and not use holiday time.
