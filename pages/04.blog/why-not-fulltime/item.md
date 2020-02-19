@@ -69,5 +69,14 @@ I thought of some more reasons why I don't like full-time work!
 * Travelling on the weekend - Two days (the weekend) isn't quite enough to go for a quick trip to another state. You spend up to a whole day travelling, leaving two half days to explore. Three days would be ideal - then you have one full day to go see things.
 * Tech conferences and talks - One example is LCA (Linux Conference Australia) - a week-long conference. I would not like this to use up my holidays as it's fairly work related. I don't know if employers will let me go to these and not use holiday time.
 
+So the running theme is that I like to have more flexibility. 
+
+Key reasons
+* Strong interests that are time consuming
+* Being worn out when working and having strong tech interests (mental health)
+* Responsibilities (NDIS LANs, Hackerspace, etc)
+* I like flexibility a lot and anticipate interruptions
+* I'm very self-driven and I like to dictate what I do to a significant degree
+
 
 Photo by Andrew Neel from Pexels
