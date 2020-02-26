@@ -78,5 +78,13 @@ Key reasons
 * I like flexibility a lot and anticipate interruptions
 * I'm very self-driven and I like to dictate what I do to a significant degree
 
+*** Update 26/02/2020 *** 
+
+I've been writing my business plan, and it made me think of another important reason. Relating to previous reasons listed.
+
+* I would like to sustain my broad range of skills, by being able to continue learning about them, and applying them to work clients and personal projects. In a full-time job, it is unlikely that I will be able to do this*
+
+\*In my previous full-time job, it gave me a broad range of projects that covered my skills fairly well. It was however a very stressful (and isolating) job that drove me into mental illness. Working my own hours and choosing my own projects dramatically reduces chances of mental illness recurring.
+
 
 Photo by Andrew Neel from Pexels
