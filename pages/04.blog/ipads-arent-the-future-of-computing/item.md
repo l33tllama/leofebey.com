@@ -7,6 +7,10 @@ date: '28-02-2019'
 
 # Why I think iPads aren't the future of computing (But they're something)
 
+![](blur-close-up-code-computer-546819-small.jpg)
+
+
+
 iPads are very popular and clearly people like them. But they can't do everything that traditional PCs can do, and they are somewhat restricted to people with loads of money (first-world middle-class upwards).
 
 ## Reason 1 - No developer tools
