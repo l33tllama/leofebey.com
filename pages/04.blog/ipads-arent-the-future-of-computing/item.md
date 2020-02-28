@@ -45,7 +45,7 @@ But for now, it's more than what you need for most people, as a casual device. B
 
 
 ### Footnote - personal iPad ownership
-I had an iPad Mini gen 4 (128GB) for about 18 months total. It was a really nice device for my tasks - reading the news, social media, emails. After 6 months of ownership, I sold it and bought a 2018 iPad (non Air or Pro). Mainly because I wanted a bigger screen for video, and that iPad supported the Apple Pencil. I kind of hated that iPad because of the non-laminated screen, and the LCD wasn't great for darker videos (eg. TV in the 90s). The laminated screen made it feel so cheap and tacky. And the LCD image quality was oversaturated and didn't handle high contrast very well. So I sold that again and bought another iPad Mini. 
+I had an iPad Mini gen 4 (128GB) for about 18 months total. It was a really nice device for my tasks - reading the news, social media, emails. After 6 months of ownership, I sold it and bought a 2018 iPad (non Air or Pro). Mainly because I wanted a bigger screen for video, and that iPad supported the Apple Pencil. I kind of hated that iPad because of the non-laminated screen, and the LCD wasn't great for darker videos (eg. TV in the 90s). The non-laminated screen made it feel so cheap and tacky. And the LCD image quality was oversaturated and didn't handle high contrast very well. So I sold that again and bought another iPad Mini. 
 
 I had the iPad mini for another year, however I finally decided that I wanted something better for videos, due to the small, 4:3 screen. I'd be inclined to get out my Surface Go for video, though my Surface Go was a bit cumbersome to use as a tablet, and lacks the tablet apps. 
 
