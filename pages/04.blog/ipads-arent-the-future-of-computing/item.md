@@ -2,7 +2,7 @@
 title: Why I think iPads aren't the future of computing (but they are something)
 taxonomy:
 	tag: [opinion, ipad]
-date: '28-02-2019'
+date: '28-02-2020'
 ---
 
 # Why I think iPads aren't the future of computing (But they're something)
