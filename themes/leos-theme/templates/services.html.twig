@@ -10,8 +10,8 @@
 		{% set ext_links = page.header.child_type == "external" %}
 		{% set vcenter = count(collection) <= 3 %}
 
-        {% for module in page.collection() %}
-                {{ module.content }}
+        {% for service in page.collection() %}
+                {{ service.content }}
         {% endfor %}
         {# 
 		{% for child in collection %}

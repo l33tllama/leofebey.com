@@ -1,6 +1,6 @@
 ---
 title: Services
-menu: services
+menu: Services
 onpage_menu: true
 content:
     items: @self.services
