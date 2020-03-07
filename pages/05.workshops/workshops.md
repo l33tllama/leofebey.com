@@ -1,6 +1,6 @@
 ---
 title: Workshops
-visible: false
+visible: true
 ---
 
 # Workshops
