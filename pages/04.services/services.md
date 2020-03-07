@@ -3,7 +3,7 @@ title: Services
 menu: Services
 onpage_menu: true
 content:
-    items: @self.modular
+    items: '@self.services'
     order:
         by: default
         dir: asc
@@ -13,4 +13,5 @@ content:
             - _skills
             - _portfolio_showcase
 ---
+
 # My Services
