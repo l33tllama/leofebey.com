@@ -3,7 +3,7 @@ title: Services
 menu: Services
 onpage_menu: true
 content:
-    items: @self.services
+    items: @self.modular
     order:
         by: default
         dir: asc
