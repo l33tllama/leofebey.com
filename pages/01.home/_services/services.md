@@ -15,4 +15,4 @@ services:
     content: "Cracked screen? Broken ports? Worn battery? I can repair most mobile devices and laptops."
 ---
 
-##I offer a broad range of IT services       
+##I offer a broad range of [IT services](/services)
