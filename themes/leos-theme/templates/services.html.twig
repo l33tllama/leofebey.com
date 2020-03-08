@@ -4,16 +4,15 @@
 
 {% block content %}
 <div id="content">
+	<div class="contact-links">
+		<span class="contact-item"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;Phone: 0427 460 504</span>
+		<span class="contact-item"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;Email: leofebey@gmail.com</span>
+	</div>
 	{{ page.content }}
 
 	<div class="grid">
 		{% set ext_links = page.header.child_type == "external" %}
 		{% set vcenter = count(collection) <= 3 %}
-
-        {% for service in page.collection() %}
-                {{ service.content }}
-        {% endfor %}
-        {# 
 		{% for child in collection %}
 			<a class="entry {% if vcenter %}vcenter{% endif %}" href="{{child.url}}" {% if ext_links %}target='_blank'{% endif %} style="background-color:{{ child.header.banner_color }}">
 				<div class="info">
@@ -25,7 +24,6 @@
 				<img class="project-image" src="{{ blog_image.url }}"/>
 			</a>
 		{% endfor %}
-        #}
 	</div>
 
 	{% if config.plugins.pagination.enabled and collection.params.pagination %}
