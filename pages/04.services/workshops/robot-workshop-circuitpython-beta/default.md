@@ -19,8 +19,8 @@ I'm aiming to target this workshop at people of all ages who have limited progra
 
 The estimated cost will be around $150-300, depending on final parts selected and content in the course. I'll send a poll around once you sign up to see what parts you want to have on the robot.
 
-:fa-arrow-down: :fa-arrow-down: :fa-arrow-down:
-<a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to sign up to hear more!</a>
+:fa-arrow-down: :fa-arrow-down: :fa-arrow-down:  
+<a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to sign up to hear more!</a>  
 :fa-arrow-up: :fa-arrow-up: :fa-arrow-up:
 
 [Join the Discord Server!](https://discord.gg/pyEJKE)
