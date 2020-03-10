@@ -9,10 +9,9 @@ title: Robot Workshop - CircuitPython (beta)
 
 # Robot Workshop - CircuitPython (beta)
 
-This is my first public workshop! Doesn't mean that it won't be any good :P 
-I have taught children how to use the Godot Engine and I have years of experience helping people face to face, so I should be able to bring that experience to this.
+This is my first public workshop! 
 
-My plan is to teach Python and basic robotics using [CircuitPython](https://circuitpython.org/) and a compatible development board eg the Adafruit M0 or M4 Express.
+My plan is to teach Python and basic robotics using [CircuitPython](https://circuitpython.org/) and a development board eg the Adafruit M0 or M4 Express.
 
 You'll be able to build your own robot, program it and take it home.
 
@@ -20,8 +19,13 @@ I'm aiming to target this workshop at people of all ages who have limited progra
 
 The estimated cost will be around $150-300, depending on final parts selected and content in the course. I'll send a poll around once you sign up to see what parts you want to have on the robot.
 
-
+:fa-arrow-down: :fa-arrow-down: :fa-arrow-down:
 <a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to sign up to hear more!</a>
+:fa-arrow-up: :fa-arrow-up: :fa-arrow-up:
+
+[Join the Discord Server!](https://discord.gg/pyEJKE)
+
+I have taught children how to use the Godot Engine and I have years of experience helping people face to face, so I should be able to bring that experience to this.
 
 Note - this sign up does not register you for the event.
 

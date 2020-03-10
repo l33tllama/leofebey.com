@@ -6,6 +6,8 @@ title: Workshops
 
 #### Coming soon in 2020 - I will be offering various workshops.  
 
+**[Join my Workshops Discord Server!](https://discord.gg/pyEJKE)**
+
 ### Experience
 I have experience assisting the general public with computers in Hobart library. 
 I also have experience assisting in a computer training course for NDIS participants.  
