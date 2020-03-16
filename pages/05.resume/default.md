@@ -80,6 +80,3 @@ Computer Graphics Programmer
 Independent   
 M: 0476 000 427   
 brunorime@gmail.com
-
-
-
