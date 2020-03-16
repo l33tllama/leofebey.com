@@ -43,7 +43,7 @@ I have a strong background in IT and a great level of patience. I studied mathem
 ## Community Organisations and Affiliations
 * 2013-current - **Hobart Hackerspace** - Regular member and experience with most of the equipment. Current treasurer.
 * 2016-current - **Enterprize Hobart** - Regular hot-desker who works on a broad range of projects
-* 2016-current - **Hobart Makers** - Regular member. Regularly bring projects to work on. Current treasurer.
+* 2016-current - **Hobart Makers** - Regular member. Regularly bring projects to work on. Current president.
 * 2014 -current - **Tasmanian Game Development Society** - Member since inception. Participated in many game jams.
 
 ## Awards
