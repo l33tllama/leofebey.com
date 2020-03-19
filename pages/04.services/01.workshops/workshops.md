@@ -4,7 +4,9 @@ title: Workshops
 
 # Workshops
 
-#### Coming soon in 2020 - I will be offering various workshops.  
+#### Coming soon in 2020 - I will be offering various workshops. 
+
+[Join our Discord server!](https://discord.gg/GQGh9UU)
 
 ### Experience
 I have experience assisting the general public with computers in Hobart library. 
@@ -24,6 +26,7 @@ I have run an online game development course (video call) for kids with Autism s
 * Beginner smartphone class
 
 ### If you're interested in attending a workshop, or have an idea for a workshop, you can:
+* Join our Discord server - [Discord](https://discord.gg/GQGh9UU)
 * Contact me: leofebey@gmail.com - I will save your email so I can send you future events
 * Join the [Hobart Makers Facebook group](https://www.facebook.com/groups/hobartmakers/) where I will be posting workshops
 * Register interest for [my first workshop](./robot-workshop-circuitpython-beta) (I'll post news about future workshops to emails registered)

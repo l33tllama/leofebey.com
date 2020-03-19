@@ -123,6 +123,8 @@ Account Number: 1060 5932
 #### 3. Paypal
 Send to overclockedamiga@gmail.com
 
+[Join our Discord server!](https://discord.gg/GQGh9UU)
+
 
 <a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to sign up to hear more!</a>
 
