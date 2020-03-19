@@ -108,6 +108,7 @@ These won't strictly be covered in the workshop, but feel free to add them to th
 1. Email me with your selected parts - leofebey@gmail.com
 2. Register on Eventbrite - [Eventbrite](https://www.eventbrite.com.au/e/leos-robot-workshop-tickets-100352354594)
 3. Send payment for workshop
+4. You will receive a receipt, emailed by me
 
 ### PAYMENT OPTIONS
 Choose any of the following
