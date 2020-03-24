@@ -49,7 +49,7 @@ This headset, while expensive, pushed VR forward in a significant way. It gave t
 But now, almost 4 years later, as technology naturally progresses, we still haven't had a cheaper, popular and readily available alternative to the original Vive available yet. Well, there kind of has been, but they have been so hard to find that they are basically unkown to even the more enthusiastic PC gamer.
 
 ## Found one! Maybe..
-![](Samsung_HMD_Odyssey.jpeg)
+![](Samsung_HMD_Odyssey.jpeg)  
 After some research, I have discovered *one* (decent) cheaper alternative to the original Vive, the Samsung HMD Odyssey+. It is a Windows Mixed Reality headset, that includes controllers. It is *only* being sold in the US, but I beleive that international shipping is available.
 
 The Samsung HMD Odyssey+ specs:
