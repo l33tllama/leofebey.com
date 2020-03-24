@@ -46,7 +46,7 @@ HTC Vive Specs:
 
 This headset, while expensive, pushed VR forward in a significant way. It gave the user a much clearer image, and much more responsive and accurate headset tracking. I can understand the reasoning behind the specs choice behind it - it showed us how good VR could be.
 
-But now, almost 4 years later, as technology naturally progresses, we still haven't had a cheaper, popular and readily available alternative to the original Vive available yet. Well, there kind of has been, but they have been so hard to find that they are basically unkown to even the more enthusiastic PC gamer.
+But now, almost 4 years later, as technology naturally progresses, we still haven't had a cheaper, popular and readily available alternative to the original Vive available yet. Well, there kind of has been, but they have been so hard to find that they are basically unknown to even the more enthusiastic PC gamer.
 
 ## Found one! Maybe..
 ![](Samsung_HMD_Odyssey.jpeg)  
