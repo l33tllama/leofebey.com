@@ -20,7 +20,7 @@ Why is that? There are a few reasons I can think that people haven't bought it
 
 The first 4 reasons will exclude a few people, but not all. However the last reason - VR headsets being expensive, is a serious factor to basically all of my Steam friends.
 
-At $1299 AUD it is a very serious investment. My 27" 144Hz 1080p monitor cost only $329 AUD. Most people don't spend more than $500 AUD or so on a monitor alone. But VR manufacturers are expecting people to pay over $1000 AUD for a hedset (and controllers) which are only used for up to a few hours per week. I must admit, it is a pretty unique and cutting-edge piece of technology that is more or less worth it. But, I don't see why there aren't more VR headsets that cost much, much less. It is definitely possible to make a VR headset at a much cheaper price, and still deliver a good experience. Sure, not quite as good as a HTC Vive Cosmos or Valve Index. But good enough such that you won't be too disappointed.  
+At $1299 AUD it is a very serious investment. My 27" 144Hz 1080p monitor cost only $329 AUD. Most people don't spend more than $500 AUD or so on a monitor alone. But VR manufacturers are expecting people to pay over $1000 AUD for a headset (and controllers) which are only used for up to a few hours per week. I must admit, it is a pretty unique and cutting-edge piece of technology that is more or less worth it. But, I don't see why there aren't more VR headsets that cost much, much less. It is definitely possible to make a VR headset at a much cheaper price, and still deliver a good experience. Sure, not quite as good as a HTC Vive Cosmos or Valve Index. But good enough such that you won't be too disappointed.  
 
 
 ## Oculus Rift DK1 - What I want more of
