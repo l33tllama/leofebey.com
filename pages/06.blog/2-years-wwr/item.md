@@ -25,6 +25,8 @@ Despite the slow progress, I have really been enjoying working with C and Allegr
 
 The progress so far has been slow and a bit un-exciting. But I've built a solid framework for building upon, and the next year or so will see some very exciting features added! :)
 
+PS. You can check out and download my game (for free) here: [https://l33tllama.itch.io/wwr](https://l33tllama.itch.io/wwr)
+
 Jan 2020  
 ![](iat0nxA5y7.gif)
 
