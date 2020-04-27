@@ -25,13 +25,13 @@ Despite the slow progress, I have really been enjoying working with C and Allegr
 
 The progress so far has been slow and a bit un-exciting. But I've built a solid framework for building upon, and the next year or so will see some very exciting features added! :)
 
-Jan 2020
+Jan 2020  
 ![](iat0nxA5y7.gif)
 
-Feb 2019
+Feb 2019  
 ![](2019-02-06_19-18-37.gif)
 
-June 2018
+June 2018  
 ![](2018-06-20.gif)
 
 
