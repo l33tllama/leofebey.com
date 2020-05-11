@@ -20,7 +20,9 @@ I'm aiming to target this workshop at people of all ages who have limited progra
 
 The estimated cost will be around $150-300, depending on final parts selected and content in the course. I'll send a poll around once you sign up to see what parts you want to have on the robot.
 
-## The workshop will be running on 26th April 2020
+## The workshop is currently ON HOLD due to Covid-19 restrictions
+### But is aiming to run around May 30 or later
+### Depending on when spaces open up again. Please subscribe to mailing list below to stay informed
 Location: Enterprize Hobart  
 24 Davey Street, Level 5  
 Hobart 7000
