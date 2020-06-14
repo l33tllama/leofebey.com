@@ -16,7 +16,7 @@ So, I had one shot to spend about $100 on advertising. I won't have this opportu
 I spent $105 on Facebook Ads, spread over a week. It's now over, so how did it go?
 **Terribly.** A pretty weak response.
 
-* No new page likes
+* I think just one new page like?
 * Only 5-10 or so promoted post likes (but thousands of views)
 * Dozens of likes on Instagram. This isn't very helpful as it isn't really made for advertising services. Also most likes were from kids and teenagers (not likely paying customers).
 * No one has reached out to me to start a conversation about my services
