@@ -2,6 +2,7 @@
 title: Welcome
 taxonomy:
 	tag: intro
+date: '01-02-2019'
 ---
 
 # Welcome to my blog!

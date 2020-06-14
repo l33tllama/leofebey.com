@@ -8,6 +8,7 @@ taxonomy:
         - godot
         - 'game engine'
         - programming
+date: '10-10-2019'
 ---
 
 Since around 2012, I have had an ongoing interest in learning about game engines. Particularly open source ones. For the purpose of settling on one and using it for a major project. I've even tried my hand at making my own game engines.
