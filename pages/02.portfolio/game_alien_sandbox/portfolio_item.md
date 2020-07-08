@@ -12,5 +12,5 @@ Made with Godot engine, backend made with NodeJS, websockets and RethinkDB.
 
 ![](alien_sandbox_screenshot.png)
 
-[Play Online!](http://leostelepresencerobot.com/Sandbox.html)
-[Itch.io page - including download](https://l33tllama.itch.io/alien-sandbox-defense)
+[:fa-gamepad: Play Online!](http://leostelepresencerobot.com/Sandbox.html)  
+[:fa-gamepad: Itch.io page - including download](https://l33tllama.itch.io/alien-sandbox-defense)  

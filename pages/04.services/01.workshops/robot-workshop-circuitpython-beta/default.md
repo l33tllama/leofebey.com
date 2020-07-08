@@ -18,8 +18,8 @@ The cost of the workshop was arount $180 including parts and workshop fee.
 I may run another of this workshop in the future, but the next workshop after this will likely cover a different topic.
 
 ## Stay in touch
-Join the Discord server to chat with other participants and myself. Also sign up for the mailing list to get emails about future workshops.
-[Join our Discord server!](https://discord.gg/GQGh9UU)
+Join the Discord server to chat with other participants and myself. Also sign up for the mailing list to get emails about future workshops.  
+[Join our Discord server!](https://discord.gg/GQGh9UU)  
 <a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to join our mailing list!</a>
 
 ## Completed robot
