@@ -36,7 +36,7 @@ Luckily I put it together in time and got it working well before the workshop da
 ![](robot_assembled_at_home.jpg)  
 *Image above - Robot assembled at home (working)* 
 
-## Coronavrus Delay
+## Coronavirus Delay
 
 Of course, my workshop was planned to run during a pandemic outbreak. Here in Hobart, there were a few cases that occurred. Our government ordered us all to stay home and limit physical distance. So we were legally not allowed to run a workshop with several people in a small room / close proximity, from late March to early May 2020. Once cases reduced to 0 for a while, restrictions eased and we were allowed to go out again. I checked up on those who had registered and organised a date. I also got two more new participants.
 
