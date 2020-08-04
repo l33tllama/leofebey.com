@@ -33,7 +33,7 @@ For the ultrasonic sensor, it required a 5V input. I was quite fortunate with th
 
 Luckily I put it together in time and got it working well before the workshop date.
 
-![](robot_assembled_at_home.jpg)
+![](robot_assembled_at_home.jpg)  
 *Image above - Robot assembled at home (working)* 
 
 ## Coronavrus Delay
