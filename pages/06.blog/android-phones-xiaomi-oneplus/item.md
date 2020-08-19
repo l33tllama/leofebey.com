@@ -68,7 +68,7 @@ Android phones are made by many different manufacturers who all have different a
 Personally I'd stay away from Samsung (due to it being overpriced). Huawei (due to the Google Play store uncertainty). And other cheap Chinese brands (Oppo, realme, TCL, etc). Xiaomi can make some nice more expensive phones, but I'd avoid their midrange. Also, you mostly have to buy them from China, with no warranty.
 
 ### Consider
-OnePlus, LG, Pixel 3a/4a, Nokia, Motorola, Sony. These look like they have some pretty good options. If I were buying a phone, I'd consider:
+OnePlus, LG, Pixel 3a/4a, Nokia, Motorola, Sony. These look like they have some pretty good options. If I were buying a phone, I'd consider:  
 OnePlus Nord, Pixel 4a - if I was on more of a budget
 OnePlus 7T/Pixel 4 - if I had more money to spend (Last 5 years or so).
 
