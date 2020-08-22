@@ -16,6 +16,9 @@ For my next planned workshop, it will cover the Raspberry Pi. You will build a R
 Join the Discord server to chat with other participants and myself. Also sign up for the mailing list to get emails about future workshops.  
 [Join our Discord server!](https://discord.gg/GQGh9UU)  
 
+## When?
+I currently have parts on order for a prototype kit. Once the kit is assembled and working I will open registrations. Registrations should open around mid September.  
+
 ### The sensor box consists of:
 #### BME680 Environment Sensot
 * Air Pressure (hPA)
