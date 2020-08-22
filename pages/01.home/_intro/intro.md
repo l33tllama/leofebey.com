@@ -3,6 +3,8 @@ title: Introduction
 ---
 # Hi!
 
+> ![](MeCircle.png)
+>
 > I am a developer and maker from Hobart Tasmania. I am familiar with Web, Python, Linux, embedded electronics and games.  
 > ###Contact:  
 > **Email:** [:fa-envelope: leofebey@gmail.com](leofebey@gmail.com)  
