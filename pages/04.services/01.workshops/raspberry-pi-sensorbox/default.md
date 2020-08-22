@@ -8,11 +8,11 @@ title: Raspberry Pi Workshop - Sensor Box
 </script>
 
 # Raspberry Pi Sensor Box Workshop
-![](project-box.jpg)
+![](project-box.jpg)  
 For my next planned workshop, it will cover the Raspberry Pi. You will build a Raspberry Pi sensor box. Registrations are not open yet, but you can sign up to my mailing list to hear about it first!
 
 ## Sign Up
-<a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to join our mailing list!</a>
+<a href="javascript:;" onclick="ml_webform_1753848('show')">:fa-hand-pointer-o: Click here to join our mailing list!</a>  
 Join the Discord server to chat with other participants and myself. Also sign up for the mailing list to get emails about future workshops.  
 [Join our Discord server!](https://discord.gg/GQGh9UU)  
 
