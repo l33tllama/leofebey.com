@@ -24,7 +24,7 @@ $(document).ready(function(){
         total_price = 0;
         items.each(function(i){
             let item = $(this);
-            if(item.classList.contains("required")){
+            if(item.hasClass("required")){
                 item.attr("checked", "true");
             }
             let checked = item.is(":checked");
