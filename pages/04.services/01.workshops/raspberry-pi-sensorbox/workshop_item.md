@@ -37,7 +37,11 @@ Select parts below to calculate cost.
         <input type="checkbox" id="loudness-sensor" checked="" price="25.00"/>&nbsp;OPTIONAL - Loudness sensor (microphone) and extra Qwiic cable - $25</label>
 </form>
 ## Total Price (Includes workshop fee)
-<span id="total-price">$0.00</span>
+<h3><span id="total-price">$0.00</span></h3>
+### Bank Details
+BSB: 06 2692  
+Account Number: 4013 2258
+Name: LEO WILLIAM FEBEY
 
 ## When?
 Hopefully everyone will have registered in the next week. Parts can take up to 4 weeks to arrive (coming from the US). So estimated date: late Oct-early Nov 2020.  
