@@ -20,13 +20,6 @@
     {% endblock %}
     {{ assets.css() }}
 
-    {% block javascripts %}
-        {% do assets.addJs('jquery', 100) %}
-        {# TODO: uncomment when live #}
-        {% do assets.addJs('https://www.googletagmanager.com/gtag/js?id=UA-132830873-1', 99) %}
-        {% do assets.addJs('theme://js/google-analytics.js', 98) %}
-    {% endblock %}
-
     <!-- MailerLite Universal -->
     <script>
     (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
@@ -37,11 +30,15 @@
 
     var ml_account = ml('accounts', '1864694', 'l4q9w7w8g9', 'load');
     </script>
-    <!-- End MailerLite Universal -->
-
-    
+    <!-- End MailerLite Universal -->    
 
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    {% block javascripts %}
+        {% do assets.addJs('jquery', 100) %}
+        {# TODO: uncomment when live #}
+        {% do assets.addJs('https://www.googletagmanager.com/gtag/js?id=UA-132830873-1', 99) %}
+        {% do assets.addJs('theme://js/google-analytics.js', 98) %}
+    {% endblock %}
     {{ assets.js() }}
 
 {% endblock head%}
