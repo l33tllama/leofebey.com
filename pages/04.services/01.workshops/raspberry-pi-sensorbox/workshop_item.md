@@ -40,7 +40,7 @@ Select parts below to calculate cost.
 <h3><span id="total-price">$0.00</span></h3>
 ### Bank Details
 BSB: 06 2692  
-Account Number: 4013 2258
+Account Number: 4013 2258  
 Name: LEO WILLIAM FEBEY
 
 ## When?
