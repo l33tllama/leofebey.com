@@ -12,6 +12,7 @@ $(document).ready(function(){
         if(checked){
             let item_price = parseFloat(item.attr("price"));
             total_price += item_price;
+            console.log(item_price);
         }
         console.log(total_price);
     })
