@@ -8,7 +8,7 @@ $(document).ready(function(){
     items.each(function(i){
         let item = $(this);
         item.click(click_handler);
-        let checked = item.attr("checked");
+        let checked = item.is(":checked");
         if(checked){
             let item_price = parseFloat(item.attr("price"));
             total_price += item_price;
@@ -27,7 +27,7 @@ $(document).ready(function(){
             if(item.classList.contains("required")){
                 item.attr("checked", "true");
             }
-            let checked = item.attr("checked");
+            let checked = item.is(":checked");
             if(checked){
                 let item_price = parseFloat(item.attr("price"));
                 total_price += item_price;
