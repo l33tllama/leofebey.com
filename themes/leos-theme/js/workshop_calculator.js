@@ -13,6 +13,7 @@ $(document).ready(function(){
             let item_price = parseFloat(item.attr("price"));
             total_price += item_price;
         }
+        console.log(total_price);
     })
 
     total_price += workshop_fee;
