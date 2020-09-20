@@ -31,7 +31,7 @@ Select parts below to calculate cost.
     <label for="raspberry-pi-power" class="pure-checkbox">
         <input type="checkbox" id="raspberry-pi-power" checked="true" price="19.00"/>&nbsp;Raspberry Pi Power Supply - $19</label>
     <label for="micro-sd" class="pure-checkbox">
-        <input type="checkbox" id="mirco-sd" checked="true" price="8.00"/>&nbsp;16GB micro Sd card for Raspberry Pi - $8</label>
+        <input type="checkbox" id="micro-sd" checked="true" price="8.00"/>&nbsp;16GB micro Sd card for Raspberry Pi - $8</label>
     <h4>Optional Loudness sensor for sound level.</h4>
     <label for="loudness-sensor" class="pure-checkbox">
         <input type="checkbox" id="loudness-sensor" checked="" price="25.00"/>&nbsp;OPTIONAL - Loudness sensor (microphone) and extra Qwiic cable - $25</label>

@@ -38,7 +38,7 @@ $(document).ready(function(){
                 return;
             }
             if(item.hasClass("required")){
-                item.attr("checked", "true");
+                item.attr("checked", "checked");
             }
             let checked = item.is(":checked");
             if(checked){
