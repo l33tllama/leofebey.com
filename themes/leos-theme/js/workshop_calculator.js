@@ -7,6 +7,7 @@ $(document).ready(function(){
 
     items.each(function(i){
         let item = $(this);
+        console.log(item);
         item.click(click_handler);
         let checked = item.is(":checked");
         if(checked){
