@@ -22,19 +22,19 @@ Select parts below to calculate cost.
 <div id="workshop-fee" fee="55.00"></div>
 <form class="pure-form" id="parts-form">
     <label for="sensors-parts" class="pure-checkbox">
-        <input type="checkbox" id="sensors-parts" class="required-item" price="60.00" value="" checked="true" />Ambient Light sensor, BME680 environment sensor, Qwiic I2C cables and connector. (required) - $60</label><br/>
+        <input type="checkbox" id="sensors-parts" class="required-item" price="60.00" value="" checked="true" />&nbsp;Ambient Light sensor, BME680 environment sensor, Qwiic I2C cables and connector. (required) - $60</label>
     <label for="enclosure" class="pure-checkbox">
-        <input type="checkbox" id="enclosure" class="required-item" price="5.00" value="" checked="true" />Enclosure (required) - $5</label><br/>
+        <input type="checkbox" id="enclosure" class="required-item" price="5.00" value="" checked="true" />&nbsp;Enclosure (required) - $5</label>
     <h4>If you have your own Raspberry Pi, you can bring your own.</h4>
     <label for="raspberry-pi" class="pure-checkbox">
-        <input type="checkbox" id="raspberry-pi" checked="true" price="45.00"/>Raspberry Pi 3 A+ - $45</label><br/>
+        <input type="checkbox" id="raspberry-pi" checked="true" price="45.00"/>&nbsp;Raspberry Pi 3 A+ - $45</label>
     <label for="raspberry-pi-power" class="pure-checkbox">
-        <input type="checkbox" id="raspberry-pi-power" checked="true" price="19.00"/>Raspberry Pi Power Supply - $19</label><br/>
+        <input type="checkbox" id="raspberry-pi-power" checked="true" price="19.00"/>&nbsp;Raspberry Pi Power Supply - $19</label>
     <label for="micro-sd" class="pure-checkbox">
-        <input type="checkbox" id="mirco-sd" checked="true" price="8.00"/>16GB micro Sd card for Raspberry Pi - $8</label><br/>
+        <input type="checkbox" id="mirco-sd" checked="true" price="8.00"/>&nbsp;16GB micro Sd card for Raspberry Pi - $8</label>
     <h4>Optional Loudness sensor for sound level.</h4>
     <label for="loudness-sensor" class="pure-checkbox">
-        <input type="checkbox" id="loudness-sensor" checked="" price="25.00"/>OPTIONAL - Loudness sensor (microphone) and extra Qwiic cable - $25</label><br/>
+        <input type="checkbox" id="loudness-sensor" checked="" price="25.00"/>&nbsp;OPTIONAL - Loudness sensor (microphone) and extra Qwiic cable - $25</label>
 </form>
 ## Total Price (Includes workshop fee)
 <span id="total-price">$0.00</span>
