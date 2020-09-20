@@ -5,8 +5,9 @@ $(document).ready(function(){
     let total_price = 0;
     let workshop_fee = parseFloat($("#workshop-fee").attr("fee"));
 
-    items.each(function(item){
-        items.click(click_handler);
+    items.each(function(i){
+        let item = $(this);
+        item.click(click_handler);
         let checked = item.attr("checked");
         if(checked){
             let item_price = parseFloat(item.attr("price"));
@@ -21,7 +22,8 @@ $(document).ready(function(){
         let parts_form = $("#parts-form");
         let items = parts_form.children();
         total_price = 0;
-        items.each(function(item){
+        items.each(function(i){
+            let item = $(this);
             if(item.classList.contains("required")){
                 item.attr("checked", "true");
             }
