@@ -40,7 +40,7 @@ Select parts below to calculate cost.
 <span id="total-price">$0.00</span>
 
 ## When?
-Hopefully everyone will have registered in the next week. Parts can take up to 4 weeks to arrive (coming from the US). So estimated date: late Oct-early Nov 2020.
+Hopefully everyone will have registered in the next week. Parts can take up to 4 weeks to arrive (coming from the US). So estimated date: late Oct-early Nov 2020.  
 
 ### The sensor box consists of:
 #### BME680 Environment Sensot
