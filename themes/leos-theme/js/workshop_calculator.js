@@ -1,12 +1,17 @@
 let $ = jQuery;
 $(document).ready(function(){
     let parts_form = $("#parts-form");
-    let items = parts_form.children("*");
+    let items = parts_form.children();
     let total_price = 0;
     let workshop_fee = parseFloat($("#workshop-fee").attr("fee"));
 
     items.each(function(i){
         let item = $(this);
+        if(item.is("label")){
+            item = item.children().first();
+        } else {
+            return;
+        }
         console.log(item);
         item.click(click_handler);
         let checked = item.is(":checked");
@@ -27,6 +32,11 @@ $(document).ready(function(){
         total_price = 0;
         items.each(function(i){
             let item = $(this);
+            if(item.is("label")){
+                item = item.children().first();
+            } else {
+                return;
+            }
             if(item.hasClass("required")){
                 item.attr("checked", "true");
             }
