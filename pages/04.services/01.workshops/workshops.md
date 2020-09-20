@@ -15,9 +15,11 @@ I have presented technical presentations to the public (Web developers and game 
 I have run an online game development course (video call) for kids with Autism spectrum disorder. Where I created workshop material and assisted the participants in making small games (with Godot Engine).
 
 ## Planned Workshops
-* Robotics workshop - CircuitPython
+* Raspberry Pi Workshop - Sensor Box (soon)
 
-## Possible Workshops (Not organised yet)
+## Possible Other Future Workshops 
+* Game development - Godot Engine
+* Arduino - Undecided project
 * Intro to Arduino (with libraries)
 * Game development for beginners
 * Godot Engine game development

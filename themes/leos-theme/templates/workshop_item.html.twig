@@ -1,0 +1,10 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block javascripts %}
+    {% do assets.addJs('jquery', 100) %}
+    {% do assets.addJs('theme://js/workshop_calculator.js', 98) %}
+{% endblock %}
+
+{% block content %}
+    {{ page.content }}
+{% endblock %}
