@@ -1,3 +1,5 @@
+let $ = jQuery;
+
 let parts_form = $("#parts-form");
 let items = parts_form.children();
 let total_price = 0;
