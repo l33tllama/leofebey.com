@@ -23,8 +23,8 @@ Select parts below to calculate cost.
 <form class="pure-form" id="parts-form">
     <label for="sensors-parts" class="pure-checkbox">
         <input type="checkbox" id="sensors-parts" class="required-item" price="60.00" value="" checked="true" />Ambient Light sensor, BME680 environment sensor, Qwiic I2C cables and connector. (required) - $60</label><br/>
-    <label for="sensors-parts" class="pure-checkbox">
-        <input type="checkbox" id="sensors-parts" class="required-item" price="5.00" value="" checked="true" />Enclosure (required) - $5</label><br/>
+    <label for="enclosure" class="pure-checkbox">
+        <input type="checkbox" id="enclosure" class="required-item" price="5.00" value="" checked="true" />Enclosure (required) - $5</label><br/>
     <h4>If you have your own Raspberry Pi, you can bring your own.</h4>
     <label for="raspberry-pi" class="pure-checkbox">
         <input type="checkbox" id="raspberry-pi" checked="true" price="45.00"/>Raspberry Pi 3 A+ - $45</label><br/>
