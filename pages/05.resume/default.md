@@ -47,9 +47,9 @@ I have a strong background in IT and a great level of patience. I studied mathem
 * 2014 -current - **Tasmanian Game Development Society** - Member since inception. Participated in many game jams.
 
 ## Awards
+* 2020 - **GovHack Tasmania** - Most Oustanding Tasmanian Benefit, People's Choice, Best Use of Tasmanian Spatial Data, Rethinking Mobility for a more accessible Hobart (Honourable Mention)
 * 2019 - **GovHack Tasmania** - Climate Change Issues in Tasmania, Most Outstanding Tasmanian Benefit, Best Use of Tasmanian Spatial Data
-* 2018 - **GovHack Tasmania** - Spirit of Govhack Hobart (individual)
-* 2018 - **GovHack Tasmania** - Best use of Heritige data
+* 2018 - **GovHack Tasmania** - Spirit of Govhack Hobart (individual), Best use of Heritige data
 * 2015 - **GovHack Tasmania** - Spirit of GovHack (team Hobart Hackerpsace)
 
 ## Technical Skills
