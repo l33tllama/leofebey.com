@@ -4,7 +4,7 @@ title: Workshops
 
 # Workshops
 
-#### Coming soon in 2020 - I will be offering various workshops. 
+#### I am offering several technical workshops, planning to run them every few months.
 
 [Join our Discord server!](https://discord.gg/GQGh9UU)
 
@@ -15,10 +15,9 @@ I have presented technical presentations to the public (Web developers and game 
 I have run an online game development course (video call) for kids with Autism spectrum disorder. Where I created workshop material and assisted the participants in making small games (with Godot Engine).
 
 ## Planned Workshops
-* Raspberry Pi Workshop - Sensor Box (soon)
+* Game Development with Godot
 
 ## Possible Other Future Workshops 
-* Game development - Godot Engine
 * Arduino - Undecided project
 * Intro to Arduino (with libraries)
 * Game development for beginners
