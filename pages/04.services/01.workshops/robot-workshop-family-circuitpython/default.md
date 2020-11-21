@@ -42,13 +42,13 @@ To be first to hear about the workshop, please subscribe to my mailing list.
 
 ## The robot consists of a  
 ### Robot chassis (you build yourself)
-![](robot_chassis.jpg)
+![](robot_chassis_small.jpg)
 ### CircuitPython microcontroller board (Adafruit Metro M0/M4 Express)
-![](metro_m0_express_big.jpg)
+![](metro_m0_express_small.jpg)
 ### Motor controller (powers the motors)
-![](motor_shield.jpg)
+![](motor_shield_small.jpg)
 ### Ultrasonic sensor for collision detection. (HC-SR04)
-![](ultrasonic.jpg)
+![](ultrasonic_small.jpg)
 
 ## Python
 You will learn some simple Python programming. An example:
