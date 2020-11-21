@@ -28,10 +28,10 @@ Enterprize is in the Hobart City Council building, and requires a key card to ge
 Cost is **$215** including workshop fee.
 
 ## Payment Details
-Payment can be made before **11 December 2020** to:
-BSB: 062 692
-Acct Number: 4013 2258
-Amount: $215
+Payment can be made before **11 December 2020** to:  
+BSB: 062 692  
+Acct Number: 4013 2258  
+Amount: $215  
 
 ## Subscribe to my mailing list to get updated!
 To be first to hear about the workshop, please subscribe to my mailing list.
