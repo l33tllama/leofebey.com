@@ -1,5 +1,5 @@
 ---
-title: Robot Workshop - CircuitPython
+title: Robot Workshop - CircuitPython (All Ages)
 ---
 
 <script>
