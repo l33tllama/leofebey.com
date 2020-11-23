@@ -15,6 +15,9 @@ The key difference about this robotics workshop is that you will build a real ro
 
 I ran this workshop earlier in the year for people of all ages, and it was very successful!
 
+## Registration
+Please register on Mixily here: [https://www.mixily.com/event/2386442204660062884](https://www.mixily.com/event/2386442204660062884)
+
 ## Date and time
 Date is Sunday the **17th Jan 2021 - 11AM onwards**.  
 Finish when you are ready - I am happy to stay as long as you need.
