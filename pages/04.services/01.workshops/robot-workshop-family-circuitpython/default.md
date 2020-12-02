@@ -24,7 +24,7 @@ Finish when you are ready - I am happy to stay as long as you need.
 Tea, coffee available. Snacks available with small fee. Lunch not provided.
 
 ## Location
-**Hobart Hackerspace - 2 St Johns Ave, New Town 7008**
+**Hobart Hackerspace - 2 St Johns Ave, New Town 7008**  
 A deviation from the normal venue, Hackerspace has just enough space for 6-8 people doing a workshop. Plenty of parking, and the back door will be open from 11AM onwards.
 
 ## Cost
