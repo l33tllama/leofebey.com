@@ -24,8 +24,8 @@ Finish when you are ready - I am happy to stay as long as you need.
 Tea, coffee available. Snacks available with small fee. Lunch not provided.
 
 ## Location
-**Enterprize - 24 Davey Street, Hobart, Level 5**
-Enterprize is in the Hobart City Council building, and requires a key card to get in, but the door will be open at 11AM. If you need help getting in, please call/text me on 0427 460 504.
+**Hobart Hackerspace - 2 St Johns Ave, New Town 7008**
+A deviation from the normal venue, Hackerspace has just enough space for 6-8 people doing a workshop. Plenty of parking, and the back door will be open from 11AM onwards.
 
 ## Cost
 Cost is **$215** including workshop fee.
