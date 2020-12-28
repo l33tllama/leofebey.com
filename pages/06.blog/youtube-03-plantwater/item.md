@@ -6,7 +6,7 @@ date: '29-12-2020'
 ---
 
 # YouTube Project Series Video 03 - Plant Water Reminder Device
-[plugin:youtube](https://youtu.be/pX1bvjG6Myo)  
+[plugin:youtube](https://youtu.be/hPUM_U2i6aQ)  
 My third YouTube video! This video is about my plant water reminder device. It is a box that has a moisture sensor attached that reads the moisture value of a plants soil. It then sends notifications to a phone if the moisture level is too low. Good for lazy people like me!  
 In the video it shows the build and coding process, plus challenges and future improvements.
 
