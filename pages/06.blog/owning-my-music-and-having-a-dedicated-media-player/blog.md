@@ -1,6 +1,6 @@
 ---
 title: 'Owning My Music and Having A Dedicated Media Player (In 2021)'
-published: false
+published: true
 date: '03-03-2021 22:45'
 taxonomy:
     tag:
