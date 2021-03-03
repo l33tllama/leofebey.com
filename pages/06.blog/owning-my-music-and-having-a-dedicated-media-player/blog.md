@@ -10,7 +10,6 @@ taxonomy:
         - rockbox
         - mediaplayer
         - 'smart playlists'
-media_order: sansafuze-rockbox-480.png
 ---
 
 ![](sansafuze-rockbox-480.png)  
