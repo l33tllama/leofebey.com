@@ -10,9 +10,10 @@ taxonomy:
         - rockbox
         - mediaplayer
         - 'smart playlists'
+media_order: sansafuze-rockbox-480.png
 ---
 
-![](sansafuze-rockbox-480.png)
+![](sansafuze-rockbox-480.png)  
 In 2004, when I was about 14, my parents bought me an iPod (classic) 4G. A portable music player with a whopping 20GB of storage. That was heaps of space back then.
 I got great use out of it. I was young, had little money, so I "acquired" music through various sources (Limewire, LAN parties, etc). It was a great way to manage my music collection, and bring it with me wherever I went.
 Later, I was given an iPod Touch 1st Gen. It was ok, but it only had 8GB of storage. Not quite as good for carrying my whole music collection with me.
