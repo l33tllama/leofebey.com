@@ -1,3 +1,11 @@
+# v2.2.1
+## 01/15/2021
+
+1. [](#improved)
+    * Fixed autoescaping in preparation for Grav 1.7
+1. [](#bugfix)
+    * Fix deprecated messages from macros [#140](https://github.com/getgrav/grav-theme-antimatter/issues/140)
+
 # v2.2.0
 ## 03/21/2019
 
