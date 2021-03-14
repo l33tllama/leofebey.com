@@ -12,4 +12,5 @@ content:
             - _services
             - _skills
             - _portfolio_showcase
+            - _testimonials
 ---
