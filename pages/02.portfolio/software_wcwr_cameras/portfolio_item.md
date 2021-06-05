@@ -1,5 +1,5 @@
 ---
-title: West Coast Wilderness Railway Camera Viewing System
+title: WCWR Cameras
 taxonomy: 
   tag: [python, linux, software, featured]
 ---
