@@ -1,7 +1,7 @@
 ---
 title: West Coast Wilderness Railway Camera Viewing System
 taxonomy: 
-  tag: [python, linux, software]
+  tag: [python, linux, software, featured]
 ---
 #West Coast Wilderness Railway Camera Viewing System
 ![](camera_demo.gif)
@@ -16,7 +16,7 @@ The staff can use a web interface on a tablet to configure the system in a simpl
 The system runs on Intel Compute Sticks, running Ubuntu Linux, attached to each display.
 Each stick is aware of each other, and can communicate data, such as camera addresses, and start and stop commands between each other.
 The project was developed from January 2019-January 2021, very intermittently, depending on budget and client deadlines.
-There may be room to add more features and polish to the project in the future.
+There may be room to add more features and polish to the project in the future.  
 ![](wcwr-logo.jpg)  
 
 ![](laptop_and_monitor.jpg)  
