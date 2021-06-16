@@ -24,7 +24,7 @@ You will be in an exclusive group of people who will have access to development 
 
 Your data will be kept with Mailerlite and myself only.  
 
-<a href="javascript:;" onclick="ml_webform_4269265('show')">[:fa-hand: Click Here To Sign Up</a>  
+<a href="javascript:;" onclick="ml_webform_4269265('show')">:fa-hand: Click Here To Sign Up</a>  
   
 [:fa-gamepad: itch.io page (discontinued for now)](https://l33tllama.itch.io/wwr)
 
