@@ -24,8 +24,9 @@ You will be in an exclusive group of people who will have access to development 
 
 Your data will be kept with Mailerlite and myself only.  
 
-<a href="javascript:;" onclick="ml_webform_4269265('show')">Click Here To Sign Up</a>
-[:fa-gamepad: itch.io page](https://l33tllama.itch.io/wwr)
+<a href="javascript:;" onclick="ml_webform_4269265('show')">Click Here To Sign Up</a>  
+  
+[:fa-gamepad: itch.io page (discontinued for now)](https://l33tllama.itch.io/wwr)
 
 ![](2018-06-20%20Making%20a%20top-down%20shooter%20game.%20In%20Linux%20with%20Allegro%20and%20C.mp4)  
 Demonstration of player movement and AI random movement. Also rockets.
