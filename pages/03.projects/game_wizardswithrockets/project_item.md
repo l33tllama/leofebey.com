@@ -3,6 +3,10 @@ title: Wizards with Rockets
 taxonomy: 
     tag: game
 ---
+<script>
+    var ml_webform_4269265 = ml_account('webforms', '4269265', 'o4f7p0', 'load');
+    ml_webform_4269265('animation', 'fadeIn');
+</script>
 # Wizards with Rockets
 
 ![](wwr_screenshot.png) 
@@ -11,6 +15,16 @@ Wizards with Rockets is a top-down shooter for Windows and Linux.
 It features AI and multiplayer. 
 It is made with the Allegro 5 library and C.  
 
+# Sign Up for Updates and Builds
+I am discontinuing the itch.io buids as I am trying to reduce publicity of this game for now, due to the possibility of people stealing my idea!  
+
+I plan to release some major builds, and iterative builds when testing features like multiplayer.
+
+You will be in an exclusive group of people who will have access to development builds before full release on Steam.  
+
+Your data will be kept with Mailerlite and myself only.  
+
+<a href="javascript:;" onclick="ml_webform_4269265('show')">Click Here To Sign Up</a>
 [:fa-gamepad: itch.io page](https://l33tllama.itch.io/wwr)
 
 ![](2018-06-20%20Making%20a%20top-down%20shooter%20game.%20In%20Linux%20with%20Allegro%20and%20C.mp4)  
