@@ -3,7 +3,7 @@ title: 'Leo Febey'
 menu: Home
 onpage_menu: true
 content:
-    items: '@self.modular'
+    items: @self.modular
     order:
         by: default
         dir: asc
@@ -14,4 +14,3 @@ content:
             - _portfolio_showcase
             - _testimonials
 ---
-
