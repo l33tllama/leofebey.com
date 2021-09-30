@@ -2,7 +2,7 @@
 title: YouTube Project Series Video 04 - Raspberry Pi Pico
 taxonomy:
 	tag: [youtube, video, electronics, raspberrypipico ]
-date: '26-12-2021'
+date: '26-06-2021'
 ---
 
 # YouTube Project Series Video 04 - Raspberry Pi Pico
