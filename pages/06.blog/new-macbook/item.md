@@ -49,5 +49,10 @@ It doesn't help that it's *still* an Intel/x86 app. Bit lazy, Microsoft. This is
 ### Battery
 Speaking of battery, it's very good, as many report. I used it at the Hobart Hackerspace last night, and it lasted from about 8PM-10:30PM mostly on, with something like 60% battery left over. I think that could be even better if it weren't for the CPU hog OneDrive.
 
+## Overall
+Overall I am quite happy with it. It's **extremely** snappy. Good screen, speakers, battery life, all a big step up from my previous ASUS Zenbook S. But I still like my Zenbook because I still like Windows. Due to the cross-compile issue, I will have to use *another* PC to compile for Raspberry Pi. Ironic, considering the Mac is ARM, and the Raspberry Pi is ARM. All down to the little developers of course. Hopefully that gets fixed soonish.
+Would I recommend this Mac? Yes! For just about anyone (except people who want to just play games), it's a great machine. Assuming you have another machine for gaming, the MacBook makes a great companion device. Despite the new ARm architecure, it doesn't effect *too many* people.
+If you're on a tight budget, a quick easy recommendation is go second hand - in Australia theres' [Reboot IT](https://www.reboot-it.com.au).
+
 
 
