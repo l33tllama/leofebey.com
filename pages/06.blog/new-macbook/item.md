@@ -8,7 +8,7 @@ date: '26-11-2021'
 # New MacBook
 Hello, apologies for the lack of updates on this blog. I try to make regular posts about various things. I have more stuff to post about, stay tuned.  
 Anyway, this post is a quick one about the new MacBook Air M1 that I bought this week.  
-I've historically been a Windows/Linux kind of person. But my work, for [Ditto][https://ditto.live], has got me using a MacBook Pro 15 2016 model for over a year now. I've kind of got used to MacOS and I was finding myself switching between my previous Windows work laptop (ASUS Zenbook S UX391) and the MacBook, especially when I was mostly just working on Ditto.
+I've historically been a Windows/Linux kind of person. But my work, for [Ditto](https://ditto.live), has got me using a MacBook Pro 15 2016 model for over a year now. I've kind of got used to MacOS and I was finding myself switching between my previous Windows work laptop (ASUS Zenbook S UX391) and the MacBook, especially when I was mostly just working on Ditto.
 The Zenbook is a great machine, with an i7-8550u processor, 16GB RAM and now a 1TB HDD. I bout it back in 2019 for just $1700 plus extra insurance. I shortly after bought an external GPU, and then it became my work and gaming machine. 
 It pains me to leave that machine behind, but I just wanted to use one primary device for work, and also allow me to take on new work that might involve using XCode.  
 I managed to buy the MacBook Air thanks to [NILS Tasmania](https://nilstasmania.org.au) and their no-interest loans for people on low income or Centrelink supports. I applied for the low-interest loan for $1500.  
@@ -42,10 +42,12 @@ I'm happy to report that some of my favourite, slightly-obscure software works, 
 * KiCAD
 * PyCharm
 * Minecraft (phew)
-* Steam runs, games are limited
+* Steam runs, games are limited  
+
 ### OneDrive
 This deserves it's own section. OneDrive for Mac seems to be a big CPU hog, using over 80% CPU at all times. Wha?
 It doesn't help that it's *still* an Intel/x86 app. Bit lazy, Microsoft. This is probably having a big impact on battery life. Apparently a new ARM version is due out in Jan 2022. Will be holding out for that. But if the CPU usage still doesn't go down, I might have to switch to iCloud.
+
 ### Battery
 Speaking of battery, it's very good, as many report. I used it at the Hobart Hackerspace last night, and it lasted from about 8PM-10:30PM mostly on, with something like 60% battery left over. I think that could be even better if it weren't for the CPU hog OneDrive.
 
@@ -53,6 +55,3 @@ Speaking of battery, it's very good, as many report. I used it at the Hobart Hac
 Overall I am quite happy with it. It's **extremely** snappy. Good screen, speakers, battery life, all a big step up from my previous ASUS Zenbook S. But I still like my Zenbook because I still like Windows. Due to the cross-compile issue, I will have to use *another* PC to compile for Raspberry Pi. Ironic, considering the Mac is ARM, and the Raspberry Pi is ARM. All down to the little developers of course. Hopefully that gets fixed soonish.
 Would I recommend this Mac? Yes! For just about anyone (except people who want to just play games), it's a great machine. Assuming you have another machine for gaming, the MacBook makes a great companion device. Despite the new ARm architecure, it doesn't effect *too many* people.
 If you're on a tight budget, a quick easy recommendation is go second hand - in Australia theres' [Reboot IT](https://www.reboot-it.com.au).
-
-
-
