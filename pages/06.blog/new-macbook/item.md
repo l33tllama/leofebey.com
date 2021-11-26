@@ -2,7 +2,7 @@
 title: New MacBook
 taxonomy:
 	tag: [laptop, apple, mac, macbook]
-date: '26-11-2019'
+date: '26-11-2021'
 ---
 
 # New MacBook
