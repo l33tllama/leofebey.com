@@ -45,7 +45,7 @@ I was a part of a Twitter thread where I started the thread saying to a particul
 
 I think the message here is that artists could be being put to work (and paid) much better for much better art that people get to enjoy, instead of little cartoon gorillas (that wouldn't have taken much effort to make) being traded around to make a small number of people (not artists) rich. 
 
-![](expensive_nft.png)
+![](expensive_nft.png). 
 *Can someone please explain to me why this ape is worth $382,899.40? Meanwhile numerous artists go underpaid or unemployed?* 
 
 ## The issues that need to be solved
