@@ -19,7 +19,6 @@ Here is a screenshot of an earlier version of the PCB:
 ![kicad PCB](ResizerImage854x578.jpg)
 
 ## SeeedFusion PCB
-
 I have bought a few products from Seeed before, they're a pretty good store, they make some good bits and boards at good prices as well. SeeedFusion PCB was also pretty well-priced. The upload process was fairly simple, just upload you board files, pick a board size, quantity, colour. Nothing too complex. You of course have the option of multi-layer.
 The price for the 10 boards I got made in a batch was \$4.90 USD (I could get 5 boards at the same price, so I got 10). That is a fairly standard price I have heard. Though the price of shipping was much higher, at \$19.11 USD. That is also a pretty standard price for shipping, unfortunately. If you can find a PCB assembly service that is overall cheaper, good find!  
 I made one board, it arrived, and it had some problems such as incorrect footprints (which was my fault). So I had to redesign the board and that gave me the experience of using SeeedFusion PCB twice. I found that the assembly time was about 1 week or so after submitting the board. Then shipping was up to two weeks (slower over Christmas holidays). So about 2-3 weeks total for it to arrive to Hobart Australia. Not super fast but if you don't need speed (which I don't really - I'm taking my time) it's alright.  
@@ -27,7 +26,6 @@ Just an extra note - they sent a photo of the board package as it was shipped. I
 ![](ResizerImage800x1066.jpg)  
 
 ## The board
-
 The first board that I received had some incorrect footprints (my fault) but looks good:  
 ![](resized000.jpg)  
 ![](resized001.jpg)  
