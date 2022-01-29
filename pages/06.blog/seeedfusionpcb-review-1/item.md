@@ -1,7 +1,10 @@
 ---
-title: SeeedFusion PCB Review Pt 1
+title: 'SeeedFusion PCB Review Pt 1'
 taxonomy:
-    tag: [electronics, pcb, review]
+    tag:
+        - electronics
+        - pcb
+        - review
 date: '29-01-2022 13:00'
 ---
 
@@ -16,7 +19,7 @@ As some may know, I have started a new project, which is an electronic virtual p
 I designed the PCB with my PCB design tool of choice, KiCAD. I have used it a fair amount before, for a project I worked on with CSIRO in Hobart. I designed a board which was going to be an open hardware satellite GPS tracker. The board seemed to work but unfortunately time ran out and I didn't get to complete it. I might take the project back on one day with a new perspective.  
 I had to re-learn KiCAD a little, but some of it came back to me quickly, and it's actually not all that difficult to use. The most difficult part is the lack of certain components for schematics and their footprints. I had to design just the schematic parts for this, but I may run into designing footprints in the future, we'll see.
 Here is a screenshot of an earlier version of the PCB:
-![kicad PCB](ResizerImage854x578.jpg)
+![ResizerImage854X578](ResizerImage854X578.jpg "ResizerImage854X578")
 
 ## SeeedFusion PCB
 I have bought a few products from Seeed before, they're a pretty good store, they make some good bits and boards at good prices as well. SeeedFusion PCB was also pretty well-priced. The upload process was fairly simple, just upload you board files, pick a board size, quantity, colour. Nothing too complex. You of course have the option of multi-layer.
