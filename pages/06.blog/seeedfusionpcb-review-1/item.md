@@ -16,7 +16,7 @@ As some may know, I have started a new project, which is an electronic virtual p
 I designed the PCB with my PCB design tool of choice, KiCAD. I have used it a fair amount before, for a project I worked on with CSIRO in Hobart. I designed a board which was going to be an open hardware satellite GPS tracker. The board seemed to work but unfortunately time ran out and I didn't get to complete it. I might take the project back on one day with a new perspective.  
 I had to re-learn KiCAD a little, but some of it came back to me quickly, and it's actually not all that difficult to use. The most difficult part is the lack of certain components for schematics and their footprints. I had to design just the schematic parts for this, but I may run into designing footprints in the future, we'll see.
 Here is a screenshot of an earlier version of the PCB:
-![kicad PCB](kicad_mxFGJx26Xe.png)
+![kicad PCB](ResizerImage854x578.jpg)
 
 ## SeeedFusion PCB
 
