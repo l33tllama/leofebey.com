@@ -12,13 +12,13 @@ My profiles across a broad range of websites. And some other affiliations.
 
 [:fa-twitter: - Leo's Twitter](https://twitter.com/leofebey)
 
-[:fa-linkedin: -Leo's LinkedIn](http://au.linkedin.com/pub/leo-febey/66/ab1/36b/en)
+[:fa-linkedin: - Leo's LinkedIn](http://au.linkedin.com/pub/leo-febey/66/ab1/36b/en)
 
 [:fa-facebook: - Leo's Facebook](https://www.facebook.com/leonaardo)
 
 [:fa-instagram: - Leo's Instagram](http://www.instagram.com/l33tllama)
 
-[:fa-youtube: -Leo's YouTube](https://www.youtube.com/user/3l33tllama)
+[:fa-youtube: - Leo's YouTube](https://www.youtube.com/user/3l33tllama)
 
 [:fa-lastfm: - Leo's Last.FM](http://www.last.fm/user/l33tllama)
 
