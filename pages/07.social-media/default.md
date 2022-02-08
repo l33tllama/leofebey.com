@@ -4,12 +4,11 @@ title: Links
 
 # Links
 
-My profiles across a broad range of websites. And some other affiliations
+My profiles across a broad range of websites. And some other affiliations.
 
 [:fa-gamepad: - Motley Pixels - Leo's Game Dev Website](https://motleypixels.com)
 
-[:fa-github: - Leos' GitHub](https://github.com/l33tllama)
-Arduino, Web, Games
+[:fa-github: - Leos' GitHub](https://github.com/l33tllama) - Arduino, Webdev, Games
 
 [:fa-twitter: - Leo's Twitter](https://twitter.com/leofebey)
 
