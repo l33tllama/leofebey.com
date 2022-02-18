@@ -2,12 +2,12 @@
 title: 'Linux vs Windows vs Mac 2022'
 taxonomy:
     tag:
-        - windows
         - linux
+        - opinion
+        - windows
         - macos
         - mac
         - macbook
-        - opinion
 ---
 
 I recently posted a tweet on Twitter saying that I thought Windows 11 was "the best Linux distro" or something like that. I can't remember, the post somehow got lots of retweets and attention, so I deleted the post anxiously (and my whole alternate Twitter account which had some personal stuff on it - didn't want the world to see it..). 
@@ -54,7 +54,7 @@ Also, I use Windows 10 on my home machine currently, as it has older hardware th
 
 Also, I still use Windows for gaming (not Linux despite high compatibility with Windows games) because; it runs *everything* including games like Halo Infinite, which my friends play a lot of. I'd hate to miss out on that. And I'm not buying a console to play the hand-full of games I want to play that won't run on Linux.
 
-When at home, I use my Mac for paying work, and my gaming PC for everything else. Including my hobby projects like games and elextronics. It has the better screen and keyboard, just feels more comfortable. I don't switch to a Linux machine (or use my Mac) because of those reasons.
+When at home, I use my Mac for paying work, and my gaming PC for everything else. Including my hobby projects like games and electronics. It has the better screen and keyboard, just feels more comfortable. I don't switch to a Linux machine (or use my Mac) because of those reasons.
 
 ## Linux!!!11one
 I used to *love* Linux. But that was in a different time. I had a Lenovo E450 laptop, Intel Core i5 dual core machine, and Windows didn't have Windows Subsystem for Linux (WSL - Linux shell in Windows). So it was a breath of fresh air back then. Linux ran  a lot faster than Windows, and was easier for development tasks (like Python and web development). It was a no-brainer for me, I was strongly compelled to use it for everything non-gaming related (as Linux gaming was still a bit pokey in 2013-2018).
