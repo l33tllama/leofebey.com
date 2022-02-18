@@ -20,6 +20,7 @@ The OS software is nice. Ultimately it lets me get my work done. Though I've had
 * Magnet - lets me snap windows like Windows and Linux
 * CleanMyMac X - 256GB of storage gets tricky to work with, so it's good to clean every way I can..
 * NTFS for Mac - You know, that filesystem used on billions of computers..  
+  
 And I'm aiming to get some more addons when I need them (Linux filesystem support, partition management, Crossover for Windows software, Parallels for running VMs)
 
 I will say that MacOS user interface is still better than *any* Linux distro I've used. It's polished, has a good layout and doesn't seem to crash. Very well-thought out. Though you get a lot of features that I have to pay for, for free on Linux and Windows.. Sigh..
