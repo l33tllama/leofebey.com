@@ -1,5 +1,13 @@
 ---
 title: 'Linux vs Windows vs Mac 2022'
+taxonomy:
+    tag:
+        - windows
+        - linux
+        - macos
+        - mac
+        - macbook
+        - opinion
 ---
 
 I recently posted a tweet on Twitter saying that I thought Windows 11 was "the best Linux distro" or something like that. I can't remember, the post somehow got lots of retweets and attention, so I deleted the post anxiously (and my whole alternate Twitter account which had some personal stuff on it - didn't want the world to see it..). 
