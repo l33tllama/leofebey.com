@@ -44,7 +44,7 @@ I'd be happy to use it for my work, gaming and hobby project machine, though it 
 
 Also, I use Windows 10 on my home machine currently, as it has older hardware that's not supported by Windows 11! So I don't even use Windows 11 at the moment.. Though I'm building up my old eGPU machine again, with Win11, which I will just be using for LAN parties.
 
-Also, I still use Windows for gaming (not Linux despite high compatibility with Windows games) because; it runs *everything* including games like Halo Infinite, which my friends play a lot of. I'd hate to miss out on that. And I'm not buying a consoleto play the hand-full of games I want to play that won't run on Linux.
+Also, I still use Windows for gaming (not Linux despite high compatibility with Windows games) because; it runs *everything* including games like Halo Infinite, which my friends play a lot of. I'd hate to miss out on that. And I'm not buying a console to play the hand-full of games I want to play that won't run on Linux.
 
 When at home, I use my Mac for paying work, and my gaming PC for everything else. Including my hobby projects like games and elextronics. It has the better screen and keyboard, just feels more comfortable. I don't switch to a Linux machine (or use my Mac) because of those reasons.
 
