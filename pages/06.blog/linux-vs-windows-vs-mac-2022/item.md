@@ -31,7 +31,8 @@ I *briefly* used Windows 11 on my ASUS Zenbook right when Windows 11 got release
 A few takeaways from my experience
 * It felt slower than Windows 10
 * My Zenbook S hasn't got super amazing battery life
-* I experienced UI issues when switching between displays with different scaling percentages
+* I experienced UI issues when switching between displays with different scaling percentages. 
+  
 But
 * Linux GUI apps can run on it! Making it "the best Linux distro" - well I'll elabtorate later..
 
