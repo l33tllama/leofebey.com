@@ -49,7 +49,7 @@ Also, I still use Windows for gaming (not Linux despite high compatibility with 
 When at home, I use my Mac for paying work, and my gaming PC for everything else. Including my hobby projects like games and elextronics. It has the better screen and keyboard, just feels more comfortable. I don't switch to a Linux machine (or use my Mac) because of those reasons.
 
 ## Linux!!!11one
-I used to *love* Linux. But that was in a different time. I had a Lenovo E450 laptop, Intel Core i5 dual core machine, and Windows didn't have Windows Subsystem for Linux (WSL - Linux shell in Windows). So it was a breath of fresh air back then. Linux ran faster than Windows, and was easier for development tasks (like Python and web development). It was a no-brainer for me, I was strongly compelled to use it for everything non-gaming related (as Linux gaming was still a bit pokey in 2013-2018).
+I used to *love* Linux. But that was in a different time. I had a Lenovo E450 laptop, Intel Core i5 dual core machine, and Windows didn't have Windows Subsystem for Linux (WSL - Linux shell in Windows). So it was a breath of fresh air back then. Linux ran  a lot faster than Windows, and was easier for development tasks (like Python and web development). It was a no-brainer for me, I was strongly compelled to use it for everything non-gaming related (as Linux gaming was still a bit pokey in 2013-2018).
 
 Now though, my circumstances have changed. The ASUS Zenbook runs Windows 10/11 fine, and has a WSL. So I just don't feel the need to run Linux other than the feel-good ethical reasons and for fun. Which have been overwhelmed by my satisfaction with Windows. 
 
