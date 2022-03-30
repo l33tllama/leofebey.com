@@ -1,14 +1,14 @@
 ---
-title: 'UpNote Rewview'
+title: 'UpNote Review'
 published: true
 date: '30-03-2022 23:25'
 taxonomy:
     tag:
+        - software
         - review
         - upnote
         - onenote
         - joplin
-        - software
         - notetaking
 ---
 
