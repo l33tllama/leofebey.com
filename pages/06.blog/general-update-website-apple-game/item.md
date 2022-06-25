@@ -31,8 +31,8 @@ Still some quirks I don't love about it though.
 * The dock 2) Weird separation between pinned apps and other apps, unlike Windows
 * The dock 3) Hard to switch between multiple windows of the same application. You have to right click and select window by title name. Not amazing. Although, Command+Tilda works.
 * No built-in window snapping. A bit nicer in Windows 11..
-* I hardly ever want to "full screen" a window and remove the dock and top bar. I'm far too used to Windows and Linux. I just double-click the title bar to maximise a window, which isn't super intuitive.
-  But there are some things I do like about MacOS
+* I hardly ever want to "full screen" a window and remove the dock and top bar. I'm far too used to Windows and Linux. I just double-click the title bar to maximise a window, which isn't super intuitive.  
+But there are some things I do like about MacOS
 * System tray is tidy, functional, and works well (and exists - unlike in elementaryOS)
 * Tabs in file explorer!!
 * Very clean and polished UI that is growing on me..
