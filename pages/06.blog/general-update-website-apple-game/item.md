@@ -50,9 +50,10 @@ I have been wondering how to get a "Linux-like" environment on the Mac, so I can
 
 * Docker is a bit of a dark art and hard to use.. Nowhere near as simple as Windows Subsystem for Linux
 
-* It also eats more RAM of course - I've had a project which required my whole 16GB of RAM just to build something..  
-But, it can be useful for some things. It's great for getting some things up and going really quickly, like for example Grav. I've set up a new Linode server and installed Docker on it. I then ran the build process for Grav in Docker. It didn't take *too* long and it just worked! Yay! Mounting files locally was a bit quirky, but did get that going too.   
-  
+* It also eats more RAM of course - I've had a project which required my whole 16GB of RAM just to build something..    
+
+But, it can be useful for some things. It's great for getting some things up and going really quickly, like for example Grav. I've set up a new Linode server and installed Docker on it. I then ran the build process for Grav in Docker. It didn't take *too* long and it just worked! Yay! Mounting files locally was a bit quirky, but did get that going too.  
+
 For local MacOS development, I think the new approach will be to avoid Docker as much as I can.. Just use local tools such as Python (and Python environments), and such in a way that should be very similar to a deployed server. Some may say that's not ideal, should use a Linux machine or WSL, but for now it will have to do. If I run into problems, maybe I can pull out an older laptop 🤷‍♂️. Oh and there's maybe [GitHub - lima-vm/lima: Linux virtual machines, typically on macOS, for running containerd](https://github.com/lima-vm/lima/tree/master).
 
 ### iPhone
